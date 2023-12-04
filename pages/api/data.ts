@@ -10,7 +10,8 @@ const messageApi = (req: NextApiRequest, res: NextApiResponse) => {
     "@antfu/ni",
     "x-init",
     "corepack",
-    "@jsdevtools/version-bump-prompt"
+    "@jsdevtools/version-bump-prompt",
+    "@ast-grep/cli"
   ]);
 };
 
