@@ -1,4 +1,5 @@
-# x-init-json
-use vercel + next.js support template urls json
+# x-init-tools
+
+npm packages global tools
 
 support: https://github.com/zjy4fun/x-init
