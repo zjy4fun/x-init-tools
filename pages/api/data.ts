@@ -11,7 +11,8 @@ const messageApi = (req: NextApiRequest, res: NextApiResponse) => {
     "x-init",
     "corepack",
     "@jsdevtools/version-bump-prompt",
-    "@ast-grep/cli"
+    "@ast-grep/cli",
+    "esno"
   ]);
 };
 
