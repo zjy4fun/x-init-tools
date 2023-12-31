@@ -12,7 +12,8 @@ const messageApi = (req: NextApiRequest, res: NextApiResponse) => {
     "corepack",
     "@jsdevtools/version-bump-prompt",
     "@ast-grep/cli",
-    "esno"
+    "esno",
+    "shikiji-cli"
   ]);
 };
 
